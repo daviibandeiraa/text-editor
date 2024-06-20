@@ -1,4 +1,4 @@
-# Text Editor
+# Text Editor Aplication
  This a Text Editor using C# and .NET, this aplication have a create archive text function and a open archive text.
 
  # Application menu
